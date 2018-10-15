@@ -11,6 +11,8 @@ Books that I highly recommend; not sorted in any particular order
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change][2] by Camille Fournier
 - [The Checklist Manifesto: How to Get Things Right][3] by Atul Gawande
 - [The Open Organization: Igniting Passion and Performance][16] by Jim Whitehurst
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers][20] by Ben Horowitz
+- [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results][21] by Gary Keller
 
 # Philosophy
 - [The Stranger][4] by Albert Camus
@@ -20,6 +22,7 @@ Books that I highly recommend; not sorted in any particular order
 - [Option B: Facing Adversity, Building Resilience, and Finding Joy][15] by Sheryl Sandberg
 - [The Unbearable Lightness of Being: A Novel][18] by Milan Kundera
 - [Blindess][19] by Jose Saramago
+- [Principles: Life and Work][22] by Ray Dalio
 
 # Other
 - [All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works--and Why Authenticity Is the Best Marketing of All][7] by Seth Godin
@@ -49,7 +52,6 @@ Books that I highly recommend; not sorted in any particular order
 [17]:https://smile.amazon.com/Winning-through-Intimidation-Victor-Business/dp/1626361142
 [18]:https://smile.amazon.com/Unbearable-Lightness-Being-Perennial-Classics/dp/0061148520
 [19]:https://smile.amazon.com/Blindness-Harvest-Book-Jose-Saramago/dp/0156007754
-
-
-
-
+[20]:https://smile.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205
+[21]:https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results-ebook/dp/B00C1BHQXK
+[22]:https://smile.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D
