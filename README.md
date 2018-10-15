@@ -18,6 +18,8 @@ Books that I highly recommend; not sorted in any particular order
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life][11] by Mark Manson
 - [How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness][12] by Russ Roberts
 - [Option B: Facing Adversity, Building Resilience, and Finding Joy][15] by Sheryl Sandberg
+- [The Unbearable Lightness of Being: A Novel][18] by Milan Kundera
+- [Blindess][19] by Jose Saramago
 
 # Other
 - [All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works--and Why Authenticity Is the Best Marketing of All][7] by Seth Godin
@@ -25,6 +27,7 @@ Books that I highly recommend; not sorted in any particular order
 - [The Game][9] by Neil Strauss 
 - [Awaken the Giant Within : How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!][10] by Tony Robbins
 - [What I Learned Losing a Million Dollars][14]: by Jim Paul and Brendan Moynihan
+- [Winning through Intimidation: How to Be the Victor, Not the Victim, in Business and in Life][17]: by Robert Ringer
 
 [0]:https://smile.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501
 [1]:https://smile.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
@@ -43,6 +46,9 @@ Books that I highly recommend; not sorted in any particular order
 [14]:https://smile.amazon.com/Learned-Million-Columbia-Business-Publishing/dp/0231164688
 [15]:https://smile.amazon.com/Option-Adversity-Building-Resilience-Finding/dp/1524732680
 [16]:https://smile.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/
+[17]:https://smile.amazon.com/Winning-through-Intimidation-Victor-Business/dp/1626361142
+[18]:https://smile.amazon.com/Unbearable-Lightness-Being-Perennial-Classics/dp/0061148520
+[19]:https://smile.amazon.com/Blindness-Harvest-Book-Jose-Saramago/dp/0156007754
 
 
 
