@@ -10,6 +10,7 @@ Books that I highly recommend; not sorted in any particular order
 - [High Output Management][1] by Andrew S. Grove
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change][2] by Camille Fournier
 - [The Checklist Manifesto: How to Get Things Right][3] by Atul Gawande
+- [The Open Organization: Igniting Passion and Performance][16] by Jim Whitehurst
 
 # Philosophy
 - [The Stranger][4] by Albert Camus
@@ -41,6 +42,7 @@ Books that I highly recommend; not sorted in any particular order
 [13]:https://smile.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469
 [14]:https://smile.amazon.com/Learned-Million-Columbia-Business-Publishing/dp/0231164688
 [15]:https://smile.amazon.com/Option-Adversity-Building-Resilience-Finding/dp/1524732680
+[16]:https://smile.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/
 
 
 
