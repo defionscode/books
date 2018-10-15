@@ -16,6 +16,7 @@ Books that I highly recommend; not sorted in any particular order
 - [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values][13] by Robert M Pirsig
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life][11] by Mark Manson
 - [How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness][12] by Russ Roberts
+- [Option B: Facing Adversity, Building Resilience, and Finding Joy][15] by Sheryl Sandberg
 
 # Other
 - [All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works--and Why Authenticity Is the Best Marketing of All][7] by Seth Godin
@@ -39,6 +40,7 @@ Books that I highly recommend; not sorted in any particular order
 [12]:https://smile.amazon.com/Adam-Smith-Change-Your-Life/dp/1591847958
 [13]:https://smile.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469
 [14]:https://smile.amazon.com/Learned-Million-Columbia-Business-Publishing/dp/0231164688
+[15]:https://smile.amazon.com/Option-Adversity-Building-Resilience-Finding/dp/1524732680
 
 
 
