@@ -5,7 +5,7 @@ Books that I highly recommend; not sorted in any particular order
 - [You Don't Know JS][5] by Kyle Simpson
 - [Ansible for DevOps][6] by Jeff Geerling
 
-# Management
+# Business & Management
 - [Reinventing Organizations][0] by Frederic Laloux 
 - [High Output Management][1] by Andrew S. Grove
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change][2] by Camille Fournier
@@ -13,6 +13,9 @@ Books that I highly recommend; not sorted in any particular order
 - [The Open Organization: Igniting Passion and Performance][16] by Jim Whitehurst
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers][20] by Ben Horowitz
 - [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results][21] by Gary Keller
+- [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever][23] by Michael Bungay Stanier
+- [Business Model Generation][26] by Alexander Osterwalder and Yves Pigneur
+- [A Beautiful Constraint: How To Transform Your Limitations Into Advantages, and Why It's Everyone's Business][27] by Adam Morgan and Mark Barden
 
 # Philosophy
 - [The Stranger][4] by Albert Camus
@@ -23,11 +26,15 @@ Books that I highly recommend; not sorted in any particular order
 - [The Unbearable Lightness of Being: A Novel][18] by Milan Kundera
 - [Blindess][19] by Jose Saramago
 - [Principles: Life and Work][22] by Ray Dalio
+- [Lynchpin: Are you Indispensable][27] by Seth Godin
+
+# Creativity
+- [The War of Art: Winning The Inner Creative Battle][24] by Steven Pressfield
+- [Steal Like an Artist: 10 Things Nobody Told You About Being Creative][25] by Austin Kleon
 
 # Other
 - [All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works--and Why Authenticity Is the Best Marketing of All][7] by Seth Godin
 - [The 48 Laws of Power][8] by Robert Greene
-- [The Game][9] by Neil Strauss 
 - [Awaken the Giant Within : How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!][10] by Tony Robbins
 - [What I Learned Losing a Million Dollars][14]: by Jim Paul and Brendan Moynihan
 - [Winning through Intimidation: How to Be the Victor, Not the Victim, in Business and in Life][17]: by Robert Ringer
@@ -55,3 +62,9 @@ Books that I highly recommend; not sorted in any particular order
 [20]:https://smile.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205
 [21]:https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results-ebook/dp/B00C1BHQXK
 [22]:https://smile.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D
+[23]:https://boxofcrayons.com/the-coaching-habit-book/
+[24]:https://www.amazon.com/War-Art-Winning-Creative-Battle/dp/1501260626
+[25]:https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253
+[26]:https://www.strategyzer.com/books/business-model-generation
+[27]:https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096
+[28]:https://www.amazon.com/Beautiful-Constraint-Transform-Limitations-Advantages-ebook/dp/B00QL30Q90
