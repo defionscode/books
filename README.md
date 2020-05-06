@@ -15,7 +15,8 @@ Books that I highly recommend; not sorted in any particular order
 - [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results][21] by Gary Keller
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever][23] by Michael Bungay Stanier
 - [Business Model Generation][26] by Alexander Osterwalder and Yves Pigneur
-- [A Beautiful Constraint: How To Transform Your Limitations Into Advantages, and Why It's Everyone's Business][27] by Adam Morgan and Mark Barden
+- [A Beautiful Constraint: How To Transform Your Limitations Into Advantages, and Why It's Everyone's Business][28] by Adam Morgan and Mark Barden
+- [Linchpin: Are you indispensable][27] by Seth Godin
 
 # Philosophy
 - [The Stranger][4] by Albert Camus
